@@ -1,0 +1,22 @@
+{
+  "name": "crea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Guestbook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Project/Guestbook.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jquery": "^3.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
